@@ -40,6 +40,7 @@ java Hangmen validFile.txt
 
 ## Projects
 - [exercise 1](exercise1.md)
+- [exercise 2](exercise2.md) Working with git commands.
 
 ## Author
 ##### Hannah Posch
