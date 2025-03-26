@@ -47,4 +47,4 @@ java Hangmen validFile.txt
 ##### Hannah Posch
 - [Github](https://github.com/Ha-nn-a-h)
 - Email: s54209@edu.campus02.at
--[FH Campus02](https://www.campus02.at/?gad_source=1&gclid=EAIaIQobChMI-sPpuYSjjAMV76-DBx39oy_CEAAYASAAEgIU4fD_BwE)
+- [FH Campus02](https://www.campus02.at/?gad_source=1&gclid=EAIaIQobChMI-sPpuYSjjAMV76-DBx39oy_CEAAYASAAEgIU4fD_BwE)

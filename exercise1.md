@@ -1,6 +1,6 @@
 # **Programming**
 ## Learn how to code own programs!
-![img of code](https://cdn.pixabay.com/photo/2017/08/05/12/58/computer-2583383_1280.jpg)
+![img of code](https://github.com/Ha-nn-a-h/bsd24_Posch_Hannah/blob/main/resources/images/img1.jpg)
 This picture is from [Pixabay](https://pixabay.com/de/photos/rechner-klaviatur-elektronik-modern-2583383/).
 
 ## Programming Languages
