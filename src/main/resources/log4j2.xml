@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="WARN">
     <Appenders>
+        <!-- Konsole-Logger (optional, zur Anzeige während der Laufzeit) -->
         <Console name="Console" target="SYSTEM_OUT">
-            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level: %msg%n%throwable"/>
         </Console>
+
+        <!-- Datei-Logger: schreibt in logs/myapp.log und hängt neue Logs an -->
+        <File name="FileLogger" fileName="logs/myapp.log" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level: %msg%n%throwable"/>
+        </File>
     </Appenders>
+
     <Loggers>
-        <Root level="info">
+        <!-- Root-Logger: Level DEBUG + beide Appender -->
+        <Root level="debug">
             <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileLogger"/>
         </Root>
     </Loggers>
 </Configuration>
