@@ -42,6 +42,8 @@ java Hangmen validFile.txt
 - [exercise 1](exercise1.md)
 - [exercise 2](exercise2.md) Working with git commands.
 - [exercise 2 Part 2](exercise2_part2.md)
+- [exercise 3](exercise3.md)
+- [log4j2.xml.template](log4j2.xml)
 
 ## Author
 ##### Hannah Posch
