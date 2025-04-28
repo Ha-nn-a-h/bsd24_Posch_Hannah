@@ -44,6 +44,7 @@ java Hangmen validFile.txt
 - [exercise 2 Part 2](exercise2_part2.md)
 - [exercise 3](exercise3.md)
 - [log4j2.xml.template](log4j2.xml)
+<<<<<<< HEAD
 
 ## Author
 ##### Hannah Posch
@@ -97,6 +98,8 @@ java Hangmen validFile.txt
 - [exercise 2 Part 2](exercise2_part2.md)
 - [exercise 3](exercise3.md)
 - [pom.xml.template](pom.xml)
+=======
+>>>>>>> conflict
 
 ## Author
 ##### Hannah Posch
