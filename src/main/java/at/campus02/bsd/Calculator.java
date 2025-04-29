@@ -18,11 +18,15 @@ public class Calculator {
 
         if(number2 ==0){
             logger.error("Zero Division");
+            return 0;
         }
         return number1/number2;
     }
     public double multiply(double number1, double number2){
         logger.debug("Called with parameters: " + number1 + " and " + number2);
         return number1*number2;
+    }
+    public int factorial(int number){
+        return 0;
     }
 }

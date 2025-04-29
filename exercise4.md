@@ -28,3 +28,8 @@ Division:
 - 2 positive doubles
 - 2 negative doubles
 - one positive double and zero
+
+Faculty:
+- small positive int
+- huge positive int
+- negative int
