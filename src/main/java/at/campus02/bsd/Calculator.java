@@ -18,6 +18,7 @@ public class Calculator {
 
         if(number2 ==0){
             logger.error("Zero Division");
+            return 0;
         }
         return number1/number2;
     }
@@ -25,4 +26,15 @@ public class Calculator {
         logger.debug("Called with parameters: " + number1 + " and " + number2);
         return number1*number2;
     }
+    public int factorial(int number){
+        if(number < 0){
+            return 0;
+        }
+        int result=1;
+        for(int i =2; i<=number;i++){
+            result *= i;
+        }
+        return result;
+    }
+
 }
