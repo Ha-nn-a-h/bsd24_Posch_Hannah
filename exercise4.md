@@ -6,3 +6,25 @@
 - After every commit you get feedback, if the code still works entirely.
 - Unit test increase the quality of the code.
 - Saves time as the project gets more complex, because the problems show instantly.
+
+
+# Handled cases in JUnit-Test
+Addition
+- 2 positive doubles
+- 2 negative doubles
+- one positive double and zero
+
+Subtraction
+- 2 positive doubles
+- 2 negative doubles
+- one positive double and zero
+
+Multiplication:
+- - 2 positive doubles
+- 2 negative doubles
+- one positive double and zero
+
+Division:
+- 2 positive doubles
+- 2 negative doubles
+- one positive double and zero
